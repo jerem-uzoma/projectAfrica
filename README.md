@@ -5,7 +5,6 @@ This is a API project used as a backbone for further design of my site projectaf
 ## Setup
 
 * Clone this repo: `git clone https://github.com/jerem-uzoma/projectAfrica.git`
-* Access the folder: `cd api`
 * Install dependencies: `npm install`
 * Boot the server: `npm start`
 * Running tests: `npm test`
